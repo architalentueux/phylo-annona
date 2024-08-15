@@ -1,0 +1,401 @@
+SAMPLE;SPECIES_NAME_PRINT;FAMILY;SUBFAMILY;SUPERTRIBE;TRIBE;GENUS;SPECIES;DATASET;powo_identifier;gbif_identifier;WCVP_continent;WCVP_geographic_area;WCVP_lifeform_description;WCVP_climate_description;GROWTH_FORM;SOCIETAL_USE;COMMON_NAME;DUTCH_NAME;GENUS_TYPE
+8000070;Afroguatteria bequaertii;Annonaceae;Annonoideae;Uvarieae;Uvarieae;Afroguatteria;Afroguatteria bequaertii;(De Wild.) Boutique;2000ABS-2;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+8008999;Afroguatteria discostigma;Annonaceae;Annonoideae;Uvarieae;Uvarieae;Afroguatteria;Afroguatteria discostigma;(Diels) X. Guo & R. M. K. Saunders;2000ABS-3;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+8009952;Afroguatteria globosa;Annonaceae;Annonoideae;Uvarieae;Uvarieae;Afroguatteria;Afroguatteria globosa;Paiva;2000ABS-4;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+CRNC;Alphonsea annulata;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea annulata;Leerat. & Chalermglin;2000ABS-5;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+ERR2789774;Alphonsea boniana;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea boniana;Finet & Gagnep.;2000ABS-6;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+ERR4210213;Alphonsea borneensis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea borneensis;I. M. Turner;2000ABS-7;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+HYZL;Alphonsea curtisii;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea curtisii;King;2000ABS-8;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+MYZV;Alphonsea cylindrica;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea cylindrica;King;2000ABS-9;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_005410;Alphonsea elliptica;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea elliptica;Hook. f. & Thomson;2000ABS-10;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_005411;Alphonsea gaudichaudiana;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea gaudichaudiana;(Baill.) Finet & Gagnep.;2000ABS-11;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_008053;Alphonsea glandulosa;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea glandulosa;Y.H. Tan & B. Xue;2000ABS-12;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_014331;Alphonsea hainanensis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea hainanensis;Merr. & Chun;2000ABS-13;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_019361;Alphonsea havilandii;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea havilandii;Keßler;2000ABS-14;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_019459;Alphonsea hortensis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea hortensis;H. Huber;2000ABS-15;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_023477;Alphonsea isthmicola;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea isthmicola;I.M.Turner & Utteridge;2000ABS-16;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_023503;Alphonsea javanica;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea javanica;Scheff.;2000ABS-17;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_023511;Alphonsea johorensis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea johorensis;J. Sinclair;2000ABS-18;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_023513;Alphonsea keithii;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea keithii;Ridl.;2000ABS-19;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_023515;Alphonsea kinabaluensis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea kinabaluensis;J. Sinclair;2000ABS-20;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+PAFTOL_023519;Alphonsea kingii;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea kingii;J. Sinclair;2000ABS-21;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S_670;Alphonsea longicarpa;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea longicarpa;Leerat. & Chalermglin;2000ABS-22;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0055;Alphonsea lucida;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea lucida;King;2000ABS-23;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0156;Alphonsea lutea;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea lutea;(Roxb.) Hook. f. & Thomson;2000ABS-24;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0196;Alphonsea maingayi;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea maingayi;Hook. f. & Thomson;2000ABS-25;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0268;Alphonsea malayana;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea malayana;Keßler;2000ABS-26;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0275;Alphonsea mollis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea mollis;Dunn;2000ABS-27;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0277;Alphonsea monogyna;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea monogyna;Merr. & Chun;2000ABS-28;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0278;Alphonsea orthopetala;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea orthopetala;H. Okada;2000ABS-29;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0279;Alphonsea pallida;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea pallida;Craib;2000ABS-30;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0280;Alphonsea philastreana;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea philastreana;(Pierre) Finet & Gagnep.;2000ABS-31;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0281;Alphonsea phuwuaensis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea phuwuaensis;Leerat. & Chalermglin;2000ABS-32;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0282;Alphonsea rugosa;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea rugosa;I. M. Turner & Utteridge;2000ABS-33;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0283;Alphonsea siamensis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea siamensis;Keßler;2000ABS-34;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0284;Alphonsea sonlaensis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea sonlaensis;Bân;2000ABS-35;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0285;Alphonsea tonquinensis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea tonquinensis;Aug. DC.;2000ABS-36;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0286;Alphonsea tsangyuanensis;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea tsangyuanensis;P. T. Li;2000ABS-37;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0288;Alphonsea ventricosa;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea ventricosa;(Roxb.) Hook. f. & Thomson;2000ABS-38;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0289;Alphonsea zeylanica;Annonaceae;Malmeoideae;Miliuseae;Miliuseae;Alphonsea;Alphonsea zeylanica;Hook. f. & Thomson;2000ABS-39;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0292;Ambavia capuronii;Annonaceae;Ambavioideae;Tetramerantheae;Tetramerantheae;Ambavia;Ambavia capuronii;(Cavaco & Keraudren) Le Thomas;2000ABS-40;100002;Madagascar - Indian Islands;Madagascar - Indian Islands;NA;subtropical;NA;NA;NA;NA;NA
+S0293;Ambavia gerrardii;Annonaceae;Ambavioideae;Tetramerantheae;Tetramerantheae;Ambavia;Ambavia gerrardii;(Baill.) Le Thomas;2000ABS-41;100002;Madagascar - Indian Islands;Madagascar - Indian Islands;NA;subtropical;NA;NA;NA;NA;NA
+S0294;Anaxagorea acuminata;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea acuminata;(Dunal) A. DC.;2000ABS-42;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0297;Anaxagorea allenii;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea allenii;R. E. Fr.;2000ABS-43;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0298;Anaxagorea angustifolia;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea angustifolia;Timmerman;2000ABS-44;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0299;Anaxagorea borneensis;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea borneensis;(Becc.) J. Sinclair;2000ABS-45;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0300;Anaxagorea brachycarpa;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea brachycarpa;R. E. Fr.;2000ABS-46;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0301;Anaxagorea brevipedicellata;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea brevipedicellata;Timmerman;2000ABS-47;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0303;Anaxagorea brevipes;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea brevipes;Benth.;2000ABS-48;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0305;Anaxagorea crassipetala;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea crassipetala;Hemsl.;2000ABS-49;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0306;Anaxagorea dolichocarpa;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea dolichocarpa;Sprague & Sandwith;2000ABS-50;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0308;Anaxagorea floribunda;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea floribunda;Timmerman;2000ABS-51;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0312;Anaxagorea gigantophylla;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea gigantophylla;R. E. Fr.;2000ABS-52;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0315;Anaxagorea guatemalensis;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea guatemalensis;Standl.;2000ABS-53;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0316;Anaxagorea inundata;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea inundata;P. E. Berry & R. B. Miller;2000ABS-54;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0317;Anaxagorea javanica;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea javanica;Blume;2000ABS-55;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0320;Anaxagorea luzonensis;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea luzonensis;A. Gray;2000ABS-56;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0322;Anaxagorea macrantha;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea macrantha;R. E. Fr.;2000ABS-57;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0323;Anaxagorea manausensis;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea manausensis;Timmerman;2000ABS-58;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0326;Anaxagorea pachypetala;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea pachypetala;(Diels) R. E. Fr.;2000ABS-59;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0327;Anaxagorea panamensis;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea panamensis;Standl.;2000ABS-60;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0329;Anaxagorea petiolata;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea petiolata;R. E. Fr.;2000ABS-61;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0331;Anaxagorea phaeocarpa;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea phaeocarpa;Mart.;2000ABS-62;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0335;Anaxagorea prinoides;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea prinoides;(Dunal) A. DC.;2000ABS-63;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0345;Anaxagorea radiata;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea radiata;C. B. Rob.;2000ABS-64;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S0346;Anaxagorea rheophytica;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea rheophytica;Maas & Westra;2000ABS-65;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0355;Anaxagorea rufa;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea rufa;Timmerman;2000ABS-66;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0371;Anaxagorea silvatica;Annonaceae;Anaxagoreoideae;;;Anaxagorea;Anaxagorea silvatica;R. E. Fr.;2000ABS-67;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0373;Annickia affinis;Annonaceae;Malmeoideae;Annickieae;Annickieae;Annickia;Annickia affinis;(Exell) Versteegh & Sosef;2000ABS-68;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S0376;Annickia ambigua;Annonaceae;Malmeoideae;Annickieae;Annickieae;Annickia;Annickia ambigua;(Robyns & Ghesq.) Setten & Maas;2000ABS-69;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S0377;Annickia chlorantha;Annonaceae;Malmeoideae;Annickieae;Annickieae;Annickia;Annickia chlorantha;(Oliv.) Setten & Maas;2000ABS-70;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S0380;Annickia kummerae;Annonaceae;Malmeoideae;Annickieae;Annickieae;Annickia;Annickia kummerae;(Engl. & Diels) Setten & Maas;2000ABS-71;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S0381;Annickia lebrunii;Annonaceae;Malmeoideae;Annickieae;Annickieae;Annickia;Annickia lebrunii;(Robyns & Ghesq.) Setten & Maas;2000ABS-72;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S0383;Annickia letestui;Annonaceae;Malmeoideae;Annickieae;Annickieae;Annickia;Annickia letestui;(Le Thomas) Setten & Maas;2000ABS-73;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S0384;Annickia pilosa;Annonaceae;Malmeoideae;Annickieae;Annickieae;Annickia;Annickia pilosa;(Exell) Setten & Maas;2000ABS-74;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S0385;Annickia polycarpa;Annonaceae;Malmeoideae;Annickieae;Annickieae;Annickia;Annickia polycarpa;(DC.) Setten & Maas;2000ABS-75;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S0400;Annona aberrans;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona aberrans;Maas & Junikka;2000ABS-76;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0403;Annona acuminata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona acuminata;Saff.;2000ABS-77;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0405;Annona acutiflora;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona acutiflora;Mart.;2000ABS-78;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0407;Annona amazonica;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona amazonica;R. E. Fr.;2000ABS-79;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0412;Annona ambotay;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona ambotay;Aubl.;2000ABS-80;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0416;Annona andicola;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona andicola;(Maas & Westra) H. Rainer;2000ABS-81;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0417;Annona angustifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona angustifolia;Huber;2000ABS-82;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0419;Annona annonoides;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona annonoides;(R. E. Fr.) Maas & Westra;2000ABS-83;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0420;Annona asplundiana;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona asplundiana;R. E. Fr.;2000ABS-84;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0421;Annona atabapensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona atabapensis;Kunth;2000ABS-85;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0424;Annona aurantiaca;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona aurantiaca;Barb. Rodr.;2000ABS-86;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0427;Annona bahiensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona bahiensis;(Maas & Westra) H. Rainer;2000ABS-87;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0428;Annona bicolor;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona bicolor;Urb.;2000ABS-88;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0430;Annona billbergii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona billbergii;R. E. Fr.;2000ABS-89;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0435;Annona boliviana;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona boliviana;(R. E. Fr.) H. Rainer;2000ABS-90;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0436;Annona bullata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona bullata;A. Rich.;2000ABS-91;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0450;Annona burchellii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona burchellii;R. E. Fr.;2000ABS-92;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0464;Annona cacans;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona cacans;Warm.;2000ABS-93;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0478;Annona caesia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona caesia;G. E. Schatz, C. Ramos & O. Ortiz;2000ABS-94;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0509;Annona calcarata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona calcarata;(R. E. Fr.) H. Rainer;2000ABS-95;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0512;Annona calophylla;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona calophylla;R. E. Fr.;2000ABS-96;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0521;Annona campestris;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona campestris;R. E. Fr.;2000ABS-97;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0547;Annona caputmedusae;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona caputmedusae;Westra & H.Rainer;2000ABS-98;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0552;Annona cascarilloides;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona cascarilloides;C. Wright ex Griseb.;2000ABS-99;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0555;Annona centrantha;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona centrantha;(R. E. Fr.) H. Rainer;2000ABS-100;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0558;Annona cercocarpa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona cercocarpa;Saff.;2000ABS-101;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0560;Annona cherimola;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona cherimola;Mill.;2000ABS-102;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0562;Annona cherimolioides;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona cherimolioides;Triana & Planch.;2000ABS-103;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0564;Annona chrysocarpa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona chrysocarpa;Lepr.;2000ABS-104;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0577;Annona conica;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona conica;Ruiz & Pav. ex G. Don;2000ABS-105;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0583;Annona contrerasii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona contrerasii;J.Jiménez Ram. & J.C.Soto;2000ABS-106;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0590;Annona cordifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona cordifolia;(Szyszy?.) R. E. Fr.;2000ABS-107;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0591;Annona coriacea;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona coriacea;Mart.;2000ABS-108;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0593;Annona cornifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona cornifolia;A. St.-Hil.;2000ABS-109;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0612;Annona crassiflora;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona crassiflora;Mart.;2000ABS-110;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0613;Annona crassivenia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona crassivenia;Saff.;2000ABS-111;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0616;Annona cristalensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona cristalensis;(Alain) Borhidi & Moncada;2000ABS-112;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0617;Annona crotonifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona crotonifolia;Mart.;2000ABS-113;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0620;Annona cubensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona cubensis;R. E. Fr.;2000ABS-114;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0624;Annona cuspidata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona cuspidata;(Mart.) H. Rainer;2000ABS-115;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0629;Annona danforthii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona danforthii;(Standl.) H. Rainer;2000ABS-116;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0641;Annona deceptrix;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona deceptrix;(Westra) H. Rainer;2000ABS-117;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0642;Annona deminuta;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona deminuta;R. E. Fr.;2000ABS-118;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0643;Annona densicoma;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona densicoma;Mart.;2000ABS-119;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0645;Annona dioica;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona dioica;A. St.-Hil.;2000ABS-120;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0647;Annona dolabripetala;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona dolabripetala;Raddi;2000ABS-121;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0654;Annona dolichopetala;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona dolichopetala;(R. E. Fr.) H. Rainer;2000ABS-122;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0655;Annona dolichophylla;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona dolichophylla;R. E. Fr.;2000ABS-123;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0656;Annona duckei;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona duckei;Diels;2000ABS-124;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0657;Annona dumetorum;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona dumetorum;R.E.Fr.;2000ABS-125;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0660;Annona echinata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona echinata;Dunal;2000ABS-126;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0662;Annona ecuadorensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona ecuadorensis;R. E. Fr.;2000ABS-127;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0664;Annona edulis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona edulis;(Triana & Planch.) H. Rainer;2000ABS-128;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0667;Annona ekmanii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona ekmanii;R. E. Fr.;2000ABS-129;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0669;Annona emarginata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona emarginata;(Schltdl.) H. Rainer;2000ABS-130;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0670;Annona excellens;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona excellens;R. E. Fr.;2000ABS-131;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0671;Annona exsucca;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona exsucca;DC.;2000ABS-132;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0672;Annona fendleri;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona fendleri;(R. E. Fr.) H. Rainer;2000ABS-133;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0673;Annona ferruginea;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona ferruginea;(R. E. Fr.) H. Rainer;2000ABS-134;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0677;Annona flava;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona flava;sp nov;2000ABS-135;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0688;Annona foetida;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona foetida;Mart.;2000ABS-136;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0689;Annona fosteri;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona fosteri;(Maas & Westra) H. Rainer;2000ABS-137;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0690;Annona frutescens;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona frutescens;R. E. Fr.;2000ABS-138;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0691;Annona gardneri;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona gardneri;R. E. Fr.;2000ABS-139;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0717;Annona gigantophylla;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona gigantophylla;(R. E. Fr.) R. E. Fr.;2000ABS-140;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0718;Annona glabra;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona glabra;L.;2000ABS-141;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S0720;Annona glauca;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona glauca;Schumach. & Thonn.;2000ABS-142;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0721;Annona glaucophylla;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona glaucophylla;R. E. Fr.;2000ABS-143;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0722;Annona globiflora;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona globiflora;Schltdl.;2000ABS-144;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0724;Annona glomerulifera;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona glomerulifera;(Maas & Westra) H. Rainer;2000ABS-145;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0726;Annona gracilis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona gracilis;R. E. Fr.;2000ABS-146;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0727;Annona granvilleana;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona granvilleana;;2000ABS-147;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0728;Annona haematantha;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona haematantha;Miq.;2000ABS-148;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0731;Annona haitiensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona haitiensis;R. E. Fr.;2000ABS-149;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0732;Annona havanensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona havanensis;R. E. Fr.;2000ABS-150;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0733;Annona hayesii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona hayesii;Saff. ex Standl.;2000ABS-151;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0734;Annona helosioides;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona helosioides;(Maas & Westra) H. Rainer;2000ABS-152;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0735;Annona herzogii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona herzogii;(R. E. Fr.) H. Rainer;2000ABS-153;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0738;Annona hispida;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona hispida;(Maas & Westra) H. Rainer;2000ABS-154;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0739;Annona holosericea;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona holosericea;Saff.;2000ABS-155;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0740;Annona hypoglauca;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona hypoglauca;Mart.;2000ABS-156;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0741;Annona hystricoides;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona hystricoides;A. H. Gentry;2000ABS-157;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0742;Annona imparilis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona imparilis;;2000ABS-158;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0743;Annona inconformis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona inconformis;Pittier;2000ABS-159;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0744;Annona insignis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona insignis;R. E. Fr.;2000ABS-160;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0745;Annona ionophylla;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona ionophylla;Triana & Planch.;2000ABS-161;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0746;Annona iquitensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona iquitensis;R. E. Fr.;2000ABS-162;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0747;Annona jahnii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona jahnii;Saff.;2000ABS-163;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0748;Annona jamaicensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona jamaicensis;Sprague;2000ABS-164;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0751;Annona jucunda;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona jucunda;(Diels) H. Rainer;2000ABS-165;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0752;Annona leptopetala;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona leptopetala;(R. E. Fr.) H. Rainer;2000ABS-166;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0753;Annona liebmanniana;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona liebmanniana;Baill.;2000ABS-167;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0754;Annona longiflora;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona longiflora;S. Watson;2000ABS-168;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0756;Annona longipedicellata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona longipedicellata;A.C. Webber & G. Gottsberger;2000ABS-169;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0757;Annona longipes;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona longipes;Saff.;2000ABS-170;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0758;Annona macrocalyx;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona macrocalyx;R. E. Fr.;2000ABS-171;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0759;Annona macroprophyllata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona macroprophyllata;Donn. Sm.;2000ABS-172;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0760;Annona malmeana;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona malmeana;R. E. Fr.;2000ABS-173;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0761;Annona mammifera;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona mammifera;(Maas & Westra) H. Rainer;2000ABS-174;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0762;Annona manabiensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona manabiensis;Saff. ex R. E. Fr.;2000ABS-175;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0763;Annona maritima;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona maritima;(Záchia) H. Rainer;2000ABS-176;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0764;Annona membranacea;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona membranacea;R. E. Fr.;2000ABS-177;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0765;Annona moaensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona moaensis;Léon & Alain;2000ABS-178;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0766;Annona montana;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona montana;Macfad.;2000ABS-179;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0768;Annona monticola;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona monticola;Mart.;2000ABS-180;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0770;Annona mucosa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona mucosa;Jacq.;2000ABS-181;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0771;Annona muricata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona muricata;L.;2000ABS-182;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0772;Annona neglecta;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neglecta;R. E. Fr.;2000ABS-183;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0795;Annona neoamazonica;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neoamazonica;H. Rainer;2000ABS-184;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0809;Annona neochrysocarpa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neochrysocarpa;H. Rainer;2000ABS-185;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0827;Annona neoecuadorensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neoecuadorensis;H. Rainer;2000ABS-186;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0834;Annona neoelliptica;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neoelliptica;H. Rainer & Maas;2000ABS-187;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0836;Annona neoinsignis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neoinsignis;H. Rainer;2000ABS-188;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0851;Annona neolaurifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neolaurifolia;H. Rainer;2000ABS-189;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0888;Annona neosalicifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neosalicifolia;H. Rainer;2000ABS-190;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0890;Annona neosericea;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neosericea;H. Rainer;2000ABS-191;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0892;Annona neoulei;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neoulei;H. Rainer;2000ABS-192;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0893;Annona neovelutina;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona neovelutina;H. Rainer;2000ABS-193;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0894;Annona nipensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona nipensis;Alain;2000ABS-194;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0895;Annona nitida;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona nitida;Mart.;2000ABS-195;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0896;Annona nutans;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona nutans;(R. E. Fr.) R. E. Fr.;2000ABS-196;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0897;Annona oblongifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona oblongifolia;R. E. Fr.;2000ABS-197;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0899;Annona oleifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona oleifolia;Westra & H.Rainer;2000ABS-198;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0901;Annona oxapampae;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona oxapampae;Maas & Westra;2000ABS-199;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0902;Annona pachyantha;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona pachyantha;(Maas & Westra) H. Rainer;2000ABS-200;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0903;Annona palmeri;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona palmeri;Saff.;2000ABS-201;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0906;Annona paludosa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona paludosa;Aubl.;2000ABS-202;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0941;Annona papilionella;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona papilionella;(Diels) H. Rainer;2000ABS-203;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0946;Annona paraënsis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona paraënsis;R. E. Fr.;2000ABS-204;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0947;Annona paraguayensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona paraguayensis;R. E. Fr.;2000ABS-205;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0949;Annona parviflora;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona parviflora;(A. St.-Hil.) H. Rainer;2000ABS-206;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0951;Annona pavonii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona pavonii;G. Don;2000ABS-207;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0952;Annona penicillata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona penicillata;;2000ABS-208;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0954;Annona pickelii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona pickelii;(Diels) H. Rainer;2000ABS-209;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0956;Annona pittieri;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona pittieri;Donn. Sm.;2000ABS-210;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0957;Annona poeppigii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona poeppigii;(Mart.) Maas & Westra;2000ABS-211;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0959;Annona praetermissa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona praetermissa;Fawc. & Rendle;2000ABS-212;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0960;Annona prevostiae;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona prevostiae;H. Rainer;2000ABS-213;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0963;Annona primigenia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona primigenia;Standl. & Steyerm.;2000ABS-214;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0964;Annona pruinosa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona pruinosa;G. E. Schatz;2000ABS-215;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S0989;Annona punicifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona punicifolia;Triana & Planch.;2000ABS-216;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1011;Annona purpurea;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona purpurea;Moç. & Sessé ex Dunal;2000ABS-217;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1021;Annona quinduensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona quinduensis;Kunth;2000ABS-218;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1038;Annona rensoniana;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona rensoniana;(Standl.) H. Rainer;2000ABS-219;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1039;Annona reticulata;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona reticulata;L.;2000ABS-220;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1040;Annona rigida;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona rigida;R. E. Fr.;2000ABS-221;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1043;Annona rosei;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona rosei;Saff.;2000ABS-222;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1044;Annona rufinervis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona rufinervis;(Triana & Planch.) H. Rainer;2000ABS-223;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1045;Annona rugulosa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona rugulosa;(Schltdl.) H. Rainer;2000ABS-224;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1050;Annona saffordiana;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona saffordiana;R. E. Fr.;2000ABS-225;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1052;Annona salicifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona salicifolia;Ekman & R. E. Fr.;2000ABS-226;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1053;Annona salzmannii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona salzmannii;A. DC.;2000ABS-227;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1069;Annona sanctae-crucis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona sanctae-crucis;S. Moore;2000ABS-228;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1072;Annona scandens;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona scandens;Diels;2000ABS-229;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1074;Annona schunkei;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona schunkei;(Maas & Westra) H. Rainer;2000ABS-230;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1077;Annona sclerophylla;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona sclerophylla;Saff.;2000ABS-231;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1083;Annona senegalensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona senegalensis;Pers.;2000ABS-232;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1089;Annona sericea;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona sericea;Dunal;2000ABS-233;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1093;Annona spinescens;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona spinescens;Mart.;2000ABS-234;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1095;Annona spraguei;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona spraguei;Saff.;2000ABS-235;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1096;Annona squamosa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona squamosa;L.;2000ABS-236;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1097;Annona stenophylla;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona stenophylla;Engl. & Diels;2000ABS-237;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1098;Annona sylvatica;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona sylvatica;A. St.-Hil.;2000ABS-238;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1100;Annona symphyocarpa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona symphyocarpa;Sandwith;2000ABS-239;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1102;Annona tenuiflora;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona tenuiflora;Mart.;2000ABS-240;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1103;Annona tomentosa;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona tomentosa;R. E. Fr.;2000ABS-241;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1106;Annona ubatubensis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona ubatubensis;(Maas & Westra) H. Rainer;2000ABS-242;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1107;Annona ulei;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona ulei;R. E. Fr.;2000ABS-243;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1110;Annona urbaniana;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona urbaniana;R. E. Fr.;2000ABS-244;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1111;Annona vepretorum;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona vepretorum;Mart.;2000ABS-245;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1113;Annona volubilis;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona volubilis;Lundell;2000ABS-246;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1114;Annona warmingiana;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona warmingiana;Mello-Silva & Pirani;2000ABS-247;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1116;Annona williamsii;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona williamsii;(Rusby ex R. E. Fr.) H. Rainer;2000ABS-248;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1117;Annona xylopiifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Annona;Annona xylopiifolia;A. St.-Hil. & Tul.;2000ABS-249;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1118;Anonidium brieyi;Annonaceae;Annonoideae;Annoneae;Annoneae;Anonidium;Anonidium brieyi;;2000ABS-250;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+S1119;Anonidium floribundum;Annonaceae;Annonoideae;Annoneae;Annoneae;Anonidium;Anonidium floribundum;Pellegr.;2000ABS-251;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1120;Anonidium letestui;Annonaceae;Annonoideae;Annoneae;Annoneae;Anonidium;Anonidium letestui;Pellegr.;2000ABS-252;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1121;Anonidium mannii;Annonaceae;Annonoideae;Annoneae;Annoneae;Anonidium;Anonidium mannii;(Oliv.) Engl. & Diels;2000ABS-253;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1128;Artabotrys aeneus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys aeneus;Jovet-Ast;2000ABS-254;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1129;Artabotrys angustipetalus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys angustipetalus;Photikwan & Chaowasku;2000ABS-255;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1148;Artabotrys antunesii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys antunesii;Engl. & Diels;2000ABS-256;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1168;Artabotrys arachnoides;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys arachnoides;J. Sinclair;2000ABS-257;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1176;Artabotrys atractocarpus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys atractocarpus;I. M. Turner;2000ABS-258;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1177;Artabotrys aurantiacus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys aurantiacus;Engl. & Diels;2000ABS-259;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1180;Artabotrys blumei;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys blumei;Hook. f. & Thomson;2000ABS-260;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1181;Artabotrys brachypetalus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys brachypetalus;Benth.;2000ABS-261;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1182;Artabotrys brevipes;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys brevipes;Craib;2000ABS-262;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1184;Artabotrys burmanicus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys burmanicus;A. DC.;2000ABS-263;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1187;Artabotrys byrsophyllus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys byrsophyllus;I. M. Turner & Utteridge;2000ABS-264;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1188;Artabotrys cagayanensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys cagayanensis;Merr.;2000ABS-265;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1189;Artabotrys camptopetalus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys camptopetalus;Diels;2000ABS-266;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1201;Artabotrys carnosipetalus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys carnosipetalus;Jessup;2000ABS-267;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1204;Artabotrys caudatus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys caudatus;Hook. f. & Thomson;2000ABS-268;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1208;Artabotrys chitkokoi;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys chitkokoi;K.Z.Hein, Naive & J.Chen;2000ABS-269;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1210;Artabotrys coccineus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys coccineus;Keay;2000ABS-270;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1211;Artabotrys collinus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys collinus;Hutch.;2000ABS-271;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1213;Artabotrys congolensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys congolensis;De Wild. & T. Durand;2000ABS-272;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1214;Artabotrys costatus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys costatus;King;2000ABS-273;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1220;Artabotrys crassifolius;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys crassifolius;Hook. f. & Thomson;2000ABS-274;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1221;Artabotrys crassipetalus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys crassipetalus;Pellegr.;2000ABS-275;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1223;Artabotrys cubittii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys cubittii;Chatterjee;2000ABS-276;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1227;Artabotrys cumingianus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys cumingianus;S. Vidal;2000ABS-277;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1229;Artabotrys dahomensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys dahomensis;Engl. & Diels;2000ABS-278;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1230;Artabotrys darainensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys darainensis;Deroin & L. Gaut.;2000ABS-279;100002;Madagascar - Indian Islands;Madagascar - Indian Islands;NA;subtropical;NA;NA;NA;NA;NA
+S1232;Artabotrys dielsianus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys dielsianus;Le Thomas;2000ABS-280;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1234;Artabotrys fragrans;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys fragrans;Jovet-Ast;2000ABS-281;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1235;Artabotrys gossweileri;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys gossweileri;Baker f. ex Exell;2000ABS-282;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1238;Artabotrys gracilis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys gracilis;King;2000ABS-283;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1239;Artabotrys grandifolius;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys grandifolius;King;2000ABS-284;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1241;Artabotrys hainanensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys hainanensis;R. E. Fr.;2000ABS-285;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1245;Artabotrys harmandii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys harmandii;Finet & Gagnep.;2000ABS-286;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1246;Artabotrys hexapetalus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys hexapetalus;(L. f.) Bhandari;2000ABS-287;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1249;Artabotrys hienianus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys hienianus;Bân;2000ABS-288;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1250;Artabotrys hildebrandtii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys hildebrandtii;O.Hoffm.;2000ABS-289;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1251;Artabotrys hirtipes;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys hirtipes;Ridl.;2000ABS-290;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1258;Artabotrys hispidus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys hispidus;Sprague & Hutch.;2000ABS-291;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1260;Artabotrys inodorus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys inodorus;Zipp. ex Miq.;2000ABS-292;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1261;Artabotrys insignis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys insignis;Engl. & Diels;2000ABS-293;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1262;Artabotrys insurae;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys insurae;J.Chen & Eiadthong;2000ABS-294;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1266;Artabotrys intermedius;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys intermedius;Hassk.;2000ABS-295;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1269;Artabotrys jacquesfelicis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys jacquesfelicis;Pellegr.;2000ABS-296;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1270;Artabotrys javanicus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys javanicus;I.M.Turner;2000ABS-297;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1276;Artabotrys jollyanus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys jollyanus;I.M.Turner;2000ABS-298;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1278;Artabotrys kinabaluensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys kinabaluensis;I.M.Turner;2000ABS-299;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1279;Artabotrys kurzii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys kurzii;Hook. f. & Thomson;2000ABS-300;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1314;Artabotrys lanuginosus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys lanuginosus;Boerl.;2000ABS-301;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1315;Artabotrys lastoursvillensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys lastoursvillensis;Pellegr.;2000ABS-302;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1318;Artabotrys letestui;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys letestui;Pellegr.;2000ABS-303;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1319;Artabotrys libericus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys libericus;Diels;2000ABS-304;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1321;Artabotrys likimensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys likimensis;De Wild.;2000ABS-305;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1328;Artabotrys longipetalus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys longipetalus;J.Chen & Eiadthong;2000ABS-306;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1331;Artabotrys longistigmatus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys longistigmatus;Nurainas;2000ABS-307;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1332;Artabotrys lowianus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys lowianus;Scort. ex King;2000ABS-308;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1336;Artabotrys luteus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys luteus;Elmer;2000ABS-309;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1339;Artabotrys luxurians;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys luxurians;Ghesq. ex Cavaco & Keraudren;2000ABS-310;100002;Madagascar - Indian Islands;Madagascar - Indian Islands;NA;subtropical;NA;NA;NA;NA;NA
+S1341;Artabotrys mabifolius;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys mabifolius;Diels;2000ABS-311;100002;Madagascar - Indian Islands;Madagascar - Indian Islands;NA;subtropical;NA;NA;NA;NA;NA
+S1342;Artabotrys macrophyllus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys macrophyllus;Hook. f.;2000ABS-312;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1354;Artabotrys macropodus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys macropodus;I. M. Turner;2000ABS-313;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1365;Artabotrys madagascariensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys madagascariensis;Miq.;2000ABS-314;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1366;Artabotrys maingayi;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys maingayi;Hook. f. & Thomson;2000ABS-315;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1368;Artabotrys manoranjanii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys manoranjanii;M. V. Ramana, J. Swamy & K. C. Mohan;2000ABS-316;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1369;Artabotrys modestus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys modestus;Diels;2000ABS-317;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1370;Artabotrys monteiroae;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys monteiroae;Oliv.;2000ABS-318;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1371;Artabotrys multiflorus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys multiflorus;C. E. C. Fisch.;2000ABS-319;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1374;Artabotrys nicobarianus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys nicobarianus;D. Das;2000ABS-320;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1375;Artabotrys nigericus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys nigericus;Hutch.;2000ABS-321;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1376;Artabotrys oblanceolatus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys oblanceolatus;Craib;2000ABS-322;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1378;Artabotrys oblongus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys oblongus;King;2000ABS-323;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1381;Artabotrys ochropetalus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys ochropetalus;I. M. Turner;2000ABS-324;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1384;Artabotrys oliganthus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys oliganthus;Engl. & Diels;2000ABS-325;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1386;Artabotrys oxycarpus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys oxycarpus;King;2000ABS-326;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1387;Artabotrys pachypetalus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys pachypetalus;B.Xue & Junhao Chen;2000ABS-327;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1388;Artabotrys pallens;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys pallens;Jovet-Ast;2000ABS-328;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1389;Artabotrys palustris;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys palustris;Louis ex Boutique;2000ABS-329;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1398;Artabotrys pandanicarpus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys pandanicarpus;I. M. Turner;2000ABS-330;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1400;Artabotrys parkinsonii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys parkinsonii;Chatterjee;2000ABS-331;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1401;Artabotrys petelotii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys petelotii;Merr.;2000ABS-332;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1405;Artabotrys phuongianus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys phuongianus;Bân;2000ABS-333;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1407;Artabotrys pierreanus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys pierreanus;Engl.;2000ABS-334;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1408;Artabotrys pilosus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys pilosus;Merr. & Chun;2000ABS-335;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1409;Artabotrys pleurocarpus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys pleurocarpus;Maingay ex Hook. f. & Thomson;2000ABS-336;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1412;Artabotrys polygynus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys polygynus;Miq.;2000ABS-337;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1417;Artabotrys porphyrifolius;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys porphyrifolius;Nurainas;2000ABS-338;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1419;Artabotrys punctulatus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys punctulatus;C. Y. Wu;2000ABS-339;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1421;Artabotrys rhynchocarpus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys rhynchocarpus;C. Y. Wu;2000ABS-340;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1422;Artabotrys robustus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys robustus;Louis ex Boutique;2000ABS-341;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1424;Artabotrys roseus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys roseus;Boerl.;2000ABS-342;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1428;Artabotrys rufus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys rufus;De Wild.;2000ABS-343;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1442;Artabotrys rupestris;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys rupestris;Diels;2000ABS-344;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1449;Artabotrys sahyadricus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys sahyadricus;Robi, KMP Kumar & Hareesh;2000ABS-345;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1451;Artabotrys sarawakensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys sarawakensis;I. M. Turner;2000ABS-346;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1458;Artabotrys scortechinii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys scortechinii;King;2000ABS-347;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1459;Artabotrys scytophyllus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys scytophyllus;(Diels) Cavaco & Keraudren;2000ABS-348;100002;Madagascar - Indian Islands;Madagascar - Indian Islands;NA;subtropical;NA;NA;NA;NA;NA
+S1460;Artabotrys siamensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys siamensis;Miq.;2000ABS-349;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1462;Artabotrys spathulatus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys spathulatus;J. Chen, Chalermglin & R.M.K. Saunders;2000ABS-350;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1464;Artabotrys speciosus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys speciosus;Kurz ex Hook. f. & Thomson;2000ABS-351;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1474;Artabotrys spinosus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys spinosus;Craib;2000ABS-352;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1475;Artabotrys stenopetalus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys stenopetalus;Engl.;2000ABS-353;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1481;Artabotrys stolonifer;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys stolonifer;Elmer;2000ABS-354;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1488;Artabotrys stolzii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys stolzii;Diels;2000ABS-355;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1498;Artabotrys suaveolens;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys suaveolens;(Blume) Blume;2000ABS-356;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1506;Artabotrys sumatranus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys sumatranus;Miq.;2000ABS-357;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1509;Artabotrys tanaosriensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys tanaosriensis;J. Chen, Chalermglin & R.M.K. Saunders;2000ABS-358;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1519;Artabotrys taynguyenensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys taynguyenensis;Bân;2000ABS-359;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1539;Artabotrys tetramerus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys tetramerus;Bân;2000ABS-360;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1541;Artabotrys thomsonii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys thomsonii;Oliv.;2000ABS-361;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+S1561;Artabotrys tipuliferus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys tipuliferus;I. M. Turner & Utteridge;2000ABS-362;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+S1579;Artabotrys tomentosus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys tomentosus;Nurainas;2000ABS-363;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR11470309;Artabotrys uniflorus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys uniflorus;(Griff.) Craib;2000ABS-364;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR11470320;Artabotrys vanprukii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys vanprukii;Craib;2000ABS-365;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR6441723;Artabotrys veldkampii;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys veldkampii;I. M. Turner;2000ABS-366;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528336;Artabotrys velutinus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys velutinus;G. Elliot;2000ABS-367;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528338;Artabotrys venustus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys venustus;King;2000ABS-368;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528339;Artabotrys vidaliana;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys vidaliana;Elmer;2000ABS-369;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528341;Artabotrys vietnamensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys vietnamensis;Bân;2000ABS-370;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528342;Artabotrys vinhensis;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys vinhensis;Jovet-Ast;2000ABS-371;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528343;Artabotrys wrayi;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys wrayi;King;2000ABS-372;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528347;Artabotrys zeylanicus;Annonaceae;Annonoideae;Duguetieae;Duguetieae;Artabotrys;Artabotrys zeylanicus;Hook.f. & Thomson;2000ABS-373;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528350;Asimina incana;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina incana;(W. Bartram) Exell;2000ABS-374;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528354;Asimina longifolia;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina longifolia;Kral;2000ABS-375;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528356;Asimina manasota;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina manasota;DeLaney;2000ABS-376;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528357;Asimina obovata;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina obovata;(Willd.) Nash;2000ABS-377;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528358;Asimina parviflora;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina parviflora;(Michx.) Dunal;2000ABS-378;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528359;Asimina pulchella;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina pulchella;(Small) Rehder & Dayton;2000ABS-379;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528361;Asimina pygmaea;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina pygmaea;(W. Bartram) Dunal;2000ABS-380;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528364;Asimina reticulata;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina reticulata;Shuttlew. ex Chapm.;2000ABS-381;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528365;Asimina rugelii;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina rugelii;B.L.Rob.;2000ABS-382;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528370;Asimina tetramera;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina tetramera;Small;2000ABS-383;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528372;Asimina triloba;Annonaceae;Annonoideae;Annoneae;Annoneae;Asimina;Asimina triloba;(L.) Dunal;2000ABS-384;100002;North America;North America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528373;Asteranthe asterias;Annonaceae;Annonoideae;Monodoreae;Monodoreae;Asteranthe;Asteranthe asterias;(S. Moore) Engl. & Diels;2000ABS-385;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528376;Asteranthe lutea;Annonaceae;Annonoideae;Monodoreae;Monodoreae;Asteranthe;Asteranthe lutea;Vollesen;2000ABS-386;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528379;Bocagea asymmetrica;Annonaceae;Annonoideae;Bocageeae;Bocageeae;Bocagea;Bocagea asymmetrica;Mello-Silva & J.C.Lopes;2000ABS-387;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528380;Bocagea longepedunculata;Annonaceae;Annonoideae;Bocageeae;Bocageeae;Bocagea;Bocagea longepedunculata;Mart.;2000ABS-388;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528381;Bocagea moeniana;Annonaceae;Annonoideae;Bocageeae;Bocageeae;Bocagea;Bocagea moeniana;Mello-Silva & J.C.Lopes;2000ABS-389;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528382;Bocagea viridis;Annonaceae;Annonoideae;Bocageeae;Bocageeae;Bocagea;Bocagea viridis;A. St.-Hil.;2000ABS-390;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528384;Bocageopsis canescens;Annonaceae;Malmeoideae;Malmeeae;Malmeeae;Bocageopsis;Bocageopsis canescens;(Benth.) R. E. Fr.;2000ABS-391;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528385;Bocageopsis mattogrossensis;Annonaceae;Malmeoideae;Malmeeae;Malmeeae;Bocageopsis;Bocageopsis mattogrossensis;(R. E. Fr.) R. E. Fr.;2000ABS-392;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528386;Bocageopsis multiflora;Annonaceae;Malmeoideae;Malmeeae;Malmeeae;Bocageopsis;Bocageopsis multiflora;(Mart.) R. E. Fr.;2000ABS-393;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528388;Bocageopsis pleiosperma;Annonaceae;Malmeoideae;Malmeeae;Malmeeae;Bocageopsis;Bocageopsis pleiosperma;Maas;2000ABS-394;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528389;Brieya fasciculata;Annonaceae;Malmeoideae;Piptostigmateae;Piptostigmateae;Brieya;Brieya fasciculata;De Wild.;2000ABS-395;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528391;Brieya latipetala;Annonaceae;Malmeoideae;Piptostigmateae;Piptostigmateae;Brieya;Brieya latipetala;Exell;2000ABS-396;100002;Africa - Continental;Africa - Continental;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528394;Cananga brandisiana;Annonaceae;Ambavioideae;Canangeae;Canangeae;Cananga;Cananga brandisiana;(Pierre) I. M. Turner;2000ABS-397;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528397;Cananga odorata;Annonaceae;Ambavioideae;Canangeae;Canangeae;Cananga;Cananga odorata;(Lam.) Hook. f. & Thomson;2000ABS-398;100002;South East Asia;South East Asia;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528398;Cardiopetalum calophyllum;Annonaceae;Annonoideae;Bocageeae;Bocageeae;Cardiopetalum;Cardiopetalum calophyllum;Schltdl.;2000ABS-399;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528399;Cardiopetalum plicatum;Annonaceae;Annonoideae;Bocageeae;Bocageeae;Cardiopetalum;Cardiopetalum plicatum;N. A. Murray;2000ABS-400;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
+SRR8528400;Cardiopetalum surinamense;Annonaceae;Annonoideae;Bocageeae;Bocageeae;Cardiopetalum;Cardiopetalum surinamense;R. E. Fr.;2000ABS-401;100002;South/Central America;South/Central America;NA;subtropical;NA;NA;NA;NA;NA
