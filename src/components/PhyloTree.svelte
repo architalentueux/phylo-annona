@@ -1235,7 +1235,7 @@ const newickString = `(((((((Cananga:1.0,Cyathocalyx:1.0):1.0,Drepananthus:2.0):
 				<!--nom du genre mais mis dans le type espèce-->
 				<i class="fas fa-angle-right"></i>
 				<!--construire le lien qui redirige vers l'appli espece-->
-				<span><a href="http://127.0.0.1:8000/post/thegenusspecies/?ids={fullSpeciesName}">view species</a></span>
+				<span><a href="http://global.ird.fr/post/thegenusspecies/?ids={fullSpeciesName}">view species</a></span>
 			</p>
 		</div>
 		<div id="tooltip-metadata">
