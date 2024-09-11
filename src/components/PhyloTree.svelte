@@ -1210,8 +1210,8 @@ const newickString = `(((((((Cananga:1.0,Cyathocalyx:1.0):1.0,Drepananthus:2.0):
 </section>
 
 <div id="tooltip" class="tooltip" style="visibility: hidden; position: fixed;">
-<div id="tooltip-image" style="background-image: url('/src/static/img/{fullSpeciesName}.jpg');">
-	<div id="tooltip-image">
+    <div id="tooltip-image" style="background-image: url('/src/static/img/{fullSpeciesName}.jpg');">
+	
 		<button id="shutTooltip">
 			<img src="/img/close.png" alt="Close tooltip" />
 		</button>
