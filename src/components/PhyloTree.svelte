@@ -898,7 +898,7 @@ const newickString = `(((((((Cananga:1.0,Cyathocalyx:1.0):1.0,Drepananthus:2.0):
 				span.style("background-color", superTribeColor);
 
 				fullSpeciesName = metadataObject.SPECIES_NAME_PRINT;
-				imagePath = `/img/${fullSpeciesName}.jpeg`;
+				// imagePath = `/img/${fullSpeciesName}.jpeg`;
 				subfamilyName = metadataObject.SUBFAMILY;
 				supertribeName = metadataObject.SUPERTRIBE;
 				tribeName = metadataObject.TRIBE;
