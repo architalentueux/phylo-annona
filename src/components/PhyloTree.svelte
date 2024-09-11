@@ -87,6 +87,7 @@ const newickString = `(((((((Cananga:1.0,Cyathocalyx:1.0):1.0,Drepananthus:2.0):
 	let sampleNumber;
 	let superTribeColor;
 	let fullSpeciesName;
+	let imagePath;
 	let familyName;
 	let subfamilyName;
 	let supertribeName;
@@ -897,6 +898,7 @@ const newickString = `(((((((Cananga:1.0,Cyathocalyx:1.0):1.0,Drepananthus:2.0):
 				span.style("background-color", superTribeColor);
 
 				fullSpeciesName = metadataObject.SPECIES_NAME_PRINT;
+				imagePath = `/img/${fullSpeciesName}.jpeg`;
 				subfamilyName = metadataObject.SUBFAMILY;
 				supertribeName = metadataObject.SUPERTRIBE;
 				tribeName = metadataObject.TRIBE;
@@ -1208,6 +1210,7 @@ const newickString = `(((((((Cananga:1.0,Cyathocalyx:1.0):1.0,Drepananthus:2.0):
 </section>
 
 <div id="tooltip" class="tooltip" style="visibility: hidden; position: fixed;">
+<div id="tooltip-image" style="background-image: url('/src/static/img/{fullSpeciesName}.jpg');">
 	<div id="tooltip-image">
 		<button id="shutTooltip">
 			<img src="/img/close.png" alt="Close tooltip" />
@@ -1368,7 +1371,7 @@ const newickString = `(((((((Cananga:1.0,Cyathocalyx:1.0):1.0,Drepananthus:2.0):
 		width: 100%;
 		height: 10vh;
 		justify-content: space-between;
-		background: url("/img/sampleimage.jpeg");
+	/*	background: url("/img/sampleimage.jpeg"); */
 		background-size: cover;
 		background-position: center;
 		border-top-left-radius: 10px;
